@@ -33,4 +33,4 @@ The following commands are supported:
 (e)UPDATE table_name SET column_name = value WHERE [condition];  		 Modifies one or more records in a table
 (f)SELECT * FROM <table_name>; 						    		 Display all records in the table
 (g)SELECT * FROM <table_name> WHERE rowid = <value>;				 Display records satisfying a particular condition
-(h) exit;												 To exit from the davisbase
+(h) exit;											 To exit from the davisbase
